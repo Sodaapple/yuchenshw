@@ -240,7 +240,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
             this.Name = "FormHW";
-            this.Text = "FormHW";
+            this.Text = "員工電話簿";
             this.Load += new System.EventHandler(this.FormHW_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
